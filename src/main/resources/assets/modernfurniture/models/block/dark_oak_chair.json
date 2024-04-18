@@ -1,0 +1,7 @@
+{
+    "parent": "modernfurniture:block/chair",
+    "textures": {
+        "top": "block/dark_oak_log",
+        "legs": "block/stripped_dark_oak_log"
+    }
+}

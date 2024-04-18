@@ -1,0 +1,7 @@
+{
+	"parent": "modernfurniture:block/single_door_cabinet",
+	"textures": {
+		"base": "block/acacia_log",
+		"handle": "block/gray_terracota"
+	}
+}

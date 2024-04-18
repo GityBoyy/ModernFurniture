@@ -1,0 +1,35 @@
+{
+	"variants": {
+		"facing=north,open=false": {
+			"model": "modernfurniture:block/oak_double_door_cabinet",
+			"y": 0
+		},
+		"facing=east,open=false": {
+			"model": "modernfurniture:block/oak_double_door_cabinet",
+			"y": 90
+		},
+		"facing=south,open=false": {
+			"model": "modernfurniture:block/oak_double_door_cabinet",
+			"y": 180
+		},
+		"facing=west,open=false": {
+			"model": "modernfurniture:block/oak_double_door_cabinet",
+			"y": 270
+		},"facing=north,open=true": {
+			"model": "modernfurniture:block/oak_double_door_cabinet_open",
+			"y": 0
+		},
+		"facing=east,open=true": {
+			"model": "modernfurniture:block/oak_double_door_cabinet_open",
+			"y": 90
+		},
+		"facing=south,open=true": {
+			"model": "modernfurniture:block/oak_double_door_cabinet_open",
+			"y": 180
+		},
+		"facing=west,open=true": {
+			"model": "modernfurniture:block/oak_double_door_cabinet_open",
+			"y": 270
+		}
+	}
+}

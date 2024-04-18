@@ -1,0 +1,113 @@
+{
+	"credit": "Model generated using MrCrayfish's Model Creator (https://mrcrayfish.com/tools?id=mc)",
+	"elements": [
+		{
+			"from": [0, 9, 0],
+			"to": [16, 11, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, -3, 0]},
+			"color": 0,
+			"faces": {
+				"north": {"uv": [0, 0, 16, 2], "texture": "#missing"},
+				"east": {"uv": [0, 0, 16, 2], "texture": "#missing"},
+				"south": {"uv": [0, 0, 16, 2], "texture": "#missing"},
+				"west": {"uv": [0, 0, 16, 2], "texture": "#missing"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#missing"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#missing"}
+			}
+		},
+		{
+			"from": [0, 0, 14],
+			"to": [16, 11, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 3, 20]},
+			"color": 0,
+			"faces": {
+				"north": {"uv": [0, 0, 16, 11], "rotation": 180, "texture": "#missing"},
+				"east": {"uv": [0, 0, 11, 2], "rotation": 270, "texture": "#missing"},
+				"south": {"uv": [0, 0, 16, 11], "texture": "#missing"},
+				"west": {"uv": [0, 0, 11, 2], "rotation": 90, "texture": "#missing"},
+				"up": {"uv": [0, 0, 16, 2], "rotation": 180, "texture": "#missing"},
+				"down": {"uv": [0, 0, 16, 2], "texture": "#missing"}
+			}
+		},
+		{
+			"from": [-2, 0, 0],
+			"to": [0, 11, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-8, 5.5, 15]},
+			"color": 0,
+			"faces": {
+				"north": {"uv": [0, 0, 11, 2], "rotation": 90, "texture": "#missing"},
+				"east": {"uv": [0, 0, 16, 11], "rotation": 180, "texture": "#missing"},
+				"south": {"uv": [0, 0, 11, 2], "rotation": 270, "texture": "#missing"},
+				"west": {"uv": [0, 0, 16, 11], "texture": "#missing"},
+				"up": {"uv": [0, 0, 16, 2], "rotation": 270, "texture": "#missing"},
+				"down": {"uv": [0, 0, 16, 2], "rotation": 270, "texture": "#missing"}
+			}
+		},
+		{
+			"from": [0, 0, 0],
+			"to": [16, 11, 2],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 3, 20]},
+			"color": 0,
+			"faces": {
+				"north": {"uv": [0, 0, 16, 11], "rotation": 180, "texture": "#missing"},
+				"east": {"uv": [0, 0, 11, 2], "rotation": 270, "texture": "#missing"},
+				"south": {"uv": [0, 0, 16, 11], "texture": "#missing"},
+				"west": {"uv": [0, 0, 11, 2], "rotation": 90, "texture": "#missing"},
+				"up": {"uv": [0, 0, 16, 2], "rotation": 180, "texture": "#missing"},
+				"down": {"uv": [0, 0, 16, 2], "texture": "#missing"}
+			}
+		},
+		{
+			"from": [15.99162, 7.01254, 0],
+			"to": [17.99162, 23.01254, 16],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [21.99162, 13.01254, 8]},
+			"color": 0,
+			"faces": {
+				"north": {"uv": [0, 0, 16, 2], "rotation": 90, "texture": "#missing"},
+				"east": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#missing"},
+				"south": {"uv": [0, 0, 16, 2], "rotation": 270, "texture": "#missing"},
+				"west": {"uv": [0, 0, 16, 16], "rotation": 270, "texture": "#missing"},
+				"up": {"uv": [0, 0, 16, 2], "rotation": 270, "texture": "#missing"},
+				"down": {"uv": [0, 0, 16, 2], "rotation": 270, "texture": "#missing"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, 315, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 315, 0],
+			"translation": [0, 2, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"ground": {
+			"translation": [0, 3, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"gui": {
+			"rotation": [30, 45, 0],
+			"translation": [-0.75, -1.85, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"head": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 8, 0]
+		},
+		"fixed": {
+			"rotation": [0, 180, 0],
+			"translation": [0, -2, -5.5]
+		}
+	},
+	"groups": [
+		{
+			"name": "VoxelShapes",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"nbt": "{}",
+			"children": [0, 1, 2, 3, 4]
+		}
+	]
+}

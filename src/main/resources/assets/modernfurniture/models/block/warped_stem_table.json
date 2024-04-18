@@ -1,0 +1,7 @@
+{
+  "parent": "modernfurniture:block/table",
+  "textures": {
+    "top": "block/warped_stem_log",
+    "legs": "block/stripped_warped_stem_log"
+  }
+}

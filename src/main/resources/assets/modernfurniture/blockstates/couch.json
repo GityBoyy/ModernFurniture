@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "modernfurniture:block/couch",
+      "y": 0
+    },
+    "facing=east": {
+      "model": "modernfurniture:block/couch",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "modernfurniture:block/couch",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "modernfurniture:block/couch",
+      "y": 270
+    }
+  }
+}

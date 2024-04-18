@@ -1,0 +1,6 @@
+{
+	"parent": "modernfurniture:block/single_door_cabinet",
+	"textures": {
+		"base": "block/oak_log"
+	}
+}
